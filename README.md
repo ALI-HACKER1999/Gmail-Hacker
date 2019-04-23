@@ -9,7 +9,7 @@ but this process will take long time depend upon the length of password.
 How to Install and Use《Gmail Hacker》?
 1 : apt install python2
 
-2 : git clone https://github.com/ALI-HACKER/Gmail-Hacker.git
+2 : git clone https://github.com/ALI-HACKER/Gmail-Hacker
     
 3 : cd Gmail-Hacker
 
